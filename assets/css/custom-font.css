@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'cyberpunk';
+    src: url('/assets/fonts/cyberpunk.ttf') format('truetype');
+  }
+  
+  .site-title {
+    font-family: 'cyberpunk', sans-serif;
+  }
+  
