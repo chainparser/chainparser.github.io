@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: chainparser
+title: chainparser blog
 
 author:
   name: cyril mawutor agbenyenu
@@ -10,9 +10,9 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  sic parvis magna - greatness from small beginings.
+  sic parvis magna.
 
-url: "https://www.chainparser.com"
+url: "https://blog.chainparser.com"
 
 # sass:
 #   style: compressed
